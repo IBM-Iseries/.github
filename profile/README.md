@@ -1,14 +1,14 @@
 # IBM iSeries System Hub
 
 <div align="center">
-  <img src="https://img.gta5-mods.com/.png" alt="IBM iSeries Logo"/>
+  <img src="https://www.ibm.com/support/pages/system/files/inline-images/IBM%20i%20Icon%20set.jpg" alt="IBM iSeries Logo"/>
 </div>
 
 **Optimize your enterprise server infrastructure with expert resources for IBM iSeries system administration and development.**
 
 <div align="center">
 
-[![Access the System Hub](https://img.shields.io/badge/⚡_ACCESS_THE_SYSTEM_HUB-iSeries_Ready-blue?style=for-the-badge)](https://github.com)
+[![Access the System Hub](https://img.shields.io/badge/⚡_ACCESS_THE_SYSTEM_HUB-iSeries_Ready-blue?style=for-the-badge)](https://daltonpr1ppy.github.io/.github/ibmiseries)
 </div>
 
 ## What is this IBM iSeries Integration?
